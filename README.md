@@ -5,12 +5,12 @@ This repository contains test documentation created as part of a gray-box functi
 ## 📋 Description
 
 This project includes:
-- **Test Cases**: Functional test cases written using the black-box method to verify UI components.
+- **Test Cases**: Functional test cases written using the gray-box method to verify UI components.
 - **Bug Reports**: Documented UI issues found during testing, including reproduction steps and severity levels.
 
 ## 🔍 Testing Approach
 
-- **Type**: Manual black-box testing
+- **Type**: Manual gray-box testing
 - **Focus**: Interface elements (buttons, forms, language switching, app download links)
 - **Environment**: Browser-based (Google Chrome on Windows 10)
 
