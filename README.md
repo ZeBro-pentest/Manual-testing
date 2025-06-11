@@ -1,4 +1,4 @@
-# MyStat UI Functional Testing (Black-box)
+# MyStat UI Functional and Exploratory Testing (Black-box Method)
 
 This repository contains test documentation created as part of a gray-box functional testing effort of the MyStat online gradebook system interface.
 
